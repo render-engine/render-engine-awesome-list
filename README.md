@@ -25,3 +25,4 @@ Plugins extend the capability of your site
 - [Render Engine KJayMiler](https://github.com/kjaymiller/render_engine_theme_kjaymiller) - Website theme that powers kjaymiller.com built on tailwind
 - [Render-Engine-PageFind](https://github.com/kjaymiller/Render-Engine-PageFind) - Add Pagefind to your website
 - [Render-Engine-Lunr](https://github.com/kjaymiller/render_engine_lunr) - Add LunrSearch to your website
+- [Render-Engine-FontAwesome](https://github.com/kjaymiller/render_engine_fontawesome) - Add FontAwesome Icons to your render engine site
