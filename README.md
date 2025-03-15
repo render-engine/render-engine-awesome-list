@@ -10,7 +10,8 @@ These are custom collection types that you can build from.
 - [Render Engine Aggregators](https://github.com/kjaymiller/render-engine-aggregators) - Creates an aggregate RSS feed of multiple collections.
 - [RSS Collections](https://github.com/kjaymiller/render-engine-rss) - Creates a collection of pages based on the results of an RSS Feed. Great for podcast sites!
 - [Render Engine JSON](https://github.com/kjaymiller/render-engine-json) - Pages defined by a JSON file/files
-- [Render Engine CSV](https://github.com/mannyanebi) - Creates a page from the rows in a CSV file. Great for creating a list of products or a list of team members or just any list of things.
+- [Render Engine CSV](https://github.com/mannyanebi/render-engine-csv) - Creates a page from the rows in a CSV file. Great for creating a list of products or a list of team members or just any list of things.
+- [Render Engine MicroBlog](https://github.com/kjaymiller/render-engine-microblog) - Create a mastodon like microblog
 
 ### Plugins
 
@@ -22,3 +23,5 @@ Plugins extend the capability of your site
 ### Themes
 - [Render Engine TailwindCSS](https://github.com/kjaymiller/render-engine-tailwindcss) - Loads TailwindCSS and generates your tailwind-template based on your output.
 - [Render Engine KJayMiler](https://github.com/kjaymiller/render_engine_theme_kjaymiller) - Website theme that powers kjaymiller.com built on tailwind
+- [Render-Engine-PageFind](https://github.com/kjaymiller/Render-Engine-PageFind) - Add Pagefind to your website
+- [Render-Engine-Lunr](https://github.com/kjaymiller/render_engine_lunr) - Add LunrSearch to your website
