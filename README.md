@@ -19,6 +19,10 @@ Plugins extend the capability of your site
 
 - [Render Engine Internationalization](https://github.com/kjaymiller/render-engine-i18n) - Add multi-language support to Render Engine sites (WIP)
 - [Render Engine YouTube Link Embed](https://github.com/kjaymiller/render-engine-youtube-link-embed) - This plugin allows you to quickly embed a YouTube video into your page by adding the YouTube link to the page on its own line.
+- [RE Plugin Pack](https://github.com/brass75/re_plugin_pack) - A pack with some useful plugins. Partial list of plugins in the pack:
+  - NextPrevPlugin - exposes the links to the next and previous pages in a collection to all the pages in a collection.
+  - Drafts - allows you to mark a page in a collection as a `draft` for dynamic selection of whether to publish.
+  - LatestEntries - Gives a list of the `n` latest entries in a collection.
 
 ### Themes
 - [Render Engine TailwindCSS](https://github.com/kjaymiller/render-engine-tailwindcss) - Loads TailwindCSS and generates your tailwind-template based on your output.
